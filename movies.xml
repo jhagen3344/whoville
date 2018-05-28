@@ -1,0 +1,33 @@
+<dir>
+        <name>Networks</name>
+        <link>https://raw.githubusercontent.com/jhagen3344/whoville/master/networks.xml</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</dir>
+
+<dir>
+        <name>Years</name>
+        <link>https://raw.githubusercontent.com/jhagen3344/whoville/master/movie-years.xml</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+</dir>
+
+<dir>
+    <title>Production</title>
+    <link>http://levistitch.tk/wakefield/production.xml</link>
+</dir>
+
+<dir>
+      <title>TMDB Popular</title>
+      <tmdb>movies/popular</tmdb> 
+</dir>
+
+<dir>
+      <title>TMDB Now Playing</title>
+      <tmdb>movies/now_playing</tmdb>
+</dir>
+
+<dir>
+      <title>TMDB Top Rated</title>
+      <tmdb>movies/top_rated</tmdb>
+</dir>
