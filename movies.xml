@@ -1,15 +1,13 @@
 <dir>
         <name>Networks</name>
         <link>https://raw.githubusercontent.com/jhagen3344/whoville/master/networks.xml</link>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+
 </dir>
 
 <dir>
         <name>Years</name>
         <link>https://raw.githubusercontent.com/jhagen3344/whoville/master/movie-years.xml</link>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+
 </dir>
 
 <dir>
