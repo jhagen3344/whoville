@@ -32,7 +32,7 @@
 
 <dir>
         <name>Movies</name>
-        <link></link>
+        <link>https://raw.githubusercontent.com/jhagen3344/whoville/master/movies.xml</link>
 
 </dir>
 
