@@ -2,52 +2,56 @@
 <dir>
 <title>Pick of the Week</title>
 <imdburl>list/ls026814027</imdburl>
+<thumbnail>https://raw.githubusercontent.com/jhagen3344/trees/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/jhagen3344/trees/master/fanart.jpg</fanart>       
 </dir>
 
 <dir>
 <title>Crime Movies</title>
 <imdburl>list/ls026814068</imdburl>
+<thumbnail>https://raw.githubusercontent.com/jhagen3344/trees/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/jhagen3344/trees/master/fanart.jpg</fanart>         
 </dir>
 
 <dir>
 <title>Crime Shows</title>
 <imdburl>list/ls026814064</imdburl>
+<thumbnail>https://raw.githubusercontent.com/jhagen3344/trees/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/jhagen3344/trees/master/fanart.jpg</fanart>         
 </dir>
 
 <dir>
 <title>Docuseries</title>
 <imdburl>list/ls026814019</imdburl>
+<thumbnail>https://raw.githubusercontent.com/jhagen3344/trees/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/jhagen3344/trees/master/fanart.jpg</fanart>         
 </dir>
 
 <dir>
 <title>Political Shows</title>
 <imdburl>list/ls026814063</imdburl>
+<thumbnail>https://raw.githubusercontent.com/jhagen3344/trees/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/jhagen3344/trees/master/fanart.jpg</fanart>        
 </dir>
 
 <dir>
         <name>Catch Up Tv</name>
         <link>https://raw.githubusercontent.com/jhagen3344/whoville/master/tv.xml</link>
-
+        <thumbnail>https://raw.githubusercontent.com/jhagen3344/trees/master/icon.png</thumbnail>
+        <fanart>https://raw.githubusercontent.com/jhagen3344/trees/master/fanart.jpg</fanart> 
 </dir>
 
 <dir>
         <name>Movies</name>
         <link>https://raw.githubusercontent.com/jhagen3344/whoville/master/movies.xml</link>
-
+        <thumbnail>https://raw.githubusercontent.com/jhagen3344/trees/master/icon.png</thumbnail>
+        <fanart>https://raw.githubusercontent.com/jhagen3344/trees/master/fanart.jpg</fanart> 
 </dir>
 
 <dir>
       <title>Search Internet</title>
-      <tmdb>search</tmdb>
+      <tmdb>search</tmdb> 
+      <thumbnail>https://raw.githubusercontent.com/jhagen3344/trees/master/icon.png</thumbnail>
+      <fanart>https://raw.githubusercontent.com/jhagen3344/trees/master/fanart.jpg</fanart>  
 </dir>
 
-<dir>
-<title>Search Key Words</title>
-<imdburl>searchseries</imdburl>
-<thumbnail>https://ibb.co/e1YAOm</thumbnail>
-</dir>
-
-<dir>
-      <title>Search Trakt</title>
-      <trakt>search</trakt>
-</dir>
