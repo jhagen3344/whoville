@@ -1,9 +1,8 @@
-
 <dir>
-<title>Pick of the Week</title>
-<imdburl>list/ls026814027</imdburl>
+<title>Crime Shows</title>
+<tmdb>list/80874</tmdb>
 <thumbnail>https://raw.githubusercontent.com/jhagen3344/trees/master/icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/jhagen3344/trees/master/fanart.jpg</fanart>       
+<fanart>https://raw.githubusercontent.com/jhagen3344/trees/master/fanart.jpg</fanart>
 </dir>
 
 <dir>
@@ -14,25 +13,20 @@
 </dir>
 
 <dir>
-<title>Crime Shows</title>
-<imdburl>list/ls026814064</imdburl>
+<title>DocuSeries</title>
+<tmdb>list/80877</tmdb>
 <thumbnail>https://raw.githubusercontent.com/jhagen3344/trees/master/icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/jhagen3344/trees/master/fanart.jpg</fanart>         
+<fanart>https://raw.githubusercontent.com/jhagen3344/trees/master/fanart.jpg</fanart>
 </dir>
 
 <dir>
-<title>Docuseries</title>
-<imdburl>list/ls026814019</imdburl>
+<title>Weekly Picks</title>
+<tmdb>list/80875</tmdb>
 <thumbnail>https://raw.githubusercontent.com/jhagen3344/trees/master/icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/jhagen3344/trees/master/fanart.jpg</fanart>         
+<fanart>https://raw.githubusercontent.com/jhagen3344/trees/master/fanart.jpg</fanart>
 </dir>
 
-<dir>
-<title>Political Shows</title>
-<imdburl>list/ls026814063</imdburl>
-<thumbnail>https://raw.githubusercontent.com/jhagen3344/trees/master/icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/jhagen3344/trees/master/fanart.jpg</fanart>        
-</dir>
+
 
 <dir>
         <name>Catch Up Tv</name>
@@ -49,7 +43,7 @@
 </dir>
 
 <dir>
-      <title>Search Internet</title>
+      <title>Search</title>
       <tmdb>search</tmdb> 
       <thumbnail>https://raw.githubusercontent.com/jhagen3344/trees/master/icon.png</thumbnail>
       <fanart>https://raw.githubusercontent.com/jhagen3344/trees/master/fanart.jpg</fanart>  
