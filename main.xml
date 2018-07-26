@@ -20,7 +20,14 @@
 </dir>
 
 <dir>
-<title>Weekly Picks</title>
+<title>Documentaries</title>
+<tmdb>list/83716</tmdb>
+<thumbnail>https://raw.githubusercontent.com/jhagen3344/trees/master/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/jhagen3344/trees/master/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>My Picks</title>
 <tmdb>list/80875</tmdb>
 <thumbnail>https://raw.githubusercontent.com/jhagen3344/trees/master/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/jhagen3344/trees/master/fanart.jpg</fanart>
